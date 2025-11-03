@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "updated": 1736946000000,
+  "users": [
+    {
+      "hwid": "f5593e8ad8990dd604794c7366154d878bab996ce182e283e0b2298da9185a9a",
+      "username": "hunch",
+      "tier": "developer",
+      "expiry": 0,
+      "banned": false,
+      "banReason": "",
+      "metadata": {
+        "role": "owner",
+        "added": "2024-01-15",
+        "discord": "Owner"
+      }
+    }
+  ]
+}
