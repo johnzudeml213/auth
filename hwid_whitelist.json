@@ -16,19 +16,6 @@
       }
     },
     {
-      "hwid": "0e772a444327b8590fdf63b64b8f0e5285ae3c917d1e163d4a50d2eda58b399b",
-      "username": "fakehuncho",
-      "tier": "beta",
-      "expiry": 0,
-      "banned": false,
-      "banReason": "",
-      "metadata": {
-        "role": "beta",
-        "added": "2025-03-11",
-        "discord": "hunchojetski"
-      }
-    },
-    {
       "hwid": "2564671b6973c2a3580eae08cccc8a1706e848e28e5b41e32913d2783e5f909b",
       "username": "fae",
       "tier": "premium",
@@ -39,6 +26,19 @@
         "role": "premium",
         "added": "2025-03-11",
         "discord": "meowerover"
+      }
+    },
+    {
+      "hwid": "0e772a444327b8590fdf63b64b8f0e5285ae3c917d1e163d4a50d2eda58b399b",
+      "username": "hunchojetski",
+      "tier": "premium",
+      "expiry": 0,
+      "banned": false,
+      "banReason": "",
+      "metadata": {
+        "role": "premium",
+        "added": "2025-03-11",
+        "discord": "hunchojetski"
       }
     }
   ]
