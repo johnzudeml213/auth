@@ -44,12 +44,12 @@
     {
       "hwid": "cf3782ec4bd65166c49bafd614ee0adf55b9796c11a8b1de78f9584dfd43bd6b",
       "username": "diego",
-      "tier": "superpremium",
+      "tier": "premium",
       "expiry": 0,
       "banned": false,
       "banReason": "",
       "metadata": {
-        "role": "superpremium",
+        "role": "premium",
         "added": "2025-09-11",
         "discord": "lfdiego"
       }
