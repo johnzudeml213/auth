@@ -80,6 +80,19 @@
         "discord": "lrnbeer"
       }
     },
+    {
+      "hwid": "9d8e59d921e37d7692dd8bb52d13ff93f4df61b3c424027fe479bbff375fd0d2",
+      "username": "Drakz_z",
+      "tier": "premium",
+      "expiry": 0,
+      "banned": false,
+      "banReason": "",
+      "metadata": {
+        "role": "premium",
+        "added": "2025-09-11",
+        "discord": "nextlove"
+      }
+    },
     
   ]
 }
