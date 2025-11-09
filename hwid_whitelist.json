@@ -3,7 +3,7 @@
   "updated": 1736946000000,
   "users": [
     {
-      "hwid": "c80591c130f6fefad80ec60e8b5c123b8cb574b66bed26c7b4b46f1d10059d8",
+      "hwid": "7c80591c130f6fefad80ec60e8b5c123b8cb574b66bed26c7b4b46f1d10059d8",
       "username": "hunch",
       "tier": "developer",
       "expiry": 0,
@@ -40,6 +40,20 @@
         "added": "2025-03-11",
         "discord": "hunchojetski"
       }
+    },
+    {
+      "hwid": "cf3782ec4bd65166c49bafd614ee0adf55b9796c11a8b1de78f9584dfd43bd6b",
+      "username": "diego",
+      "tier": "superpremium",
+      "expiry": 0,
+      "banned": false,
+      "banReason": "",
+      "metadata": {
+        "role": "superpremium",
+        "added": "2025-09-11",
+        "discord": "lfdiego"
+      }
     }
+    
   ]
 }
