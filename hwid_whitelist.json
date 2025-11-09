@@ -67,6 +67,19 @@
         "discord": "zfallout"
       }
     },
+    {
+      "hwid": "6f4473b36fad5a38f66912c6dcb5d547560c05605cc28a756248028ab9538633",
+      "username": "mrailouis.",
+      "tier": "premium",
+      "expiry": 0,
+      "banned": false,
+      "banReason": "",
+      "metadata": {
+        "role": "premium",
+        "added": "2025-09-11",
+        "discord": "lrnbeer"
+      }
+    },
     
   ]
 }
