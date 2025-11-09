@@ -53,7 +53,20 @@
         "added": "2025-09-11",
         "discord": "lfdiego"
       }
-    }
+    },
+       {
+      "hwid": "8c17fd9b6f9244afde687489ba8e4e47d519a25d18d9e64ffd327a304d36953e",
+      "username": "fallout",
+      "tier": "premium",
+      "expiry": 0,
+      "banned": false,
+      "banReason": "",
+      "metadata": {
+        "role": "premium",
+        "added": "2025-09-11",
+        "discord": "zfallout"
+      }
+    },
     
   ]
 }
