@@ -93,6 +93,19 @@
         "discord": "nextlove"
       }
     },
+    {
+      "hwid": "2df6a73dd786846a0f7d8bdcb1e0b36783ac553fa55c3f65093097b6cfec39a8",
+      "username": "nue8",
+      "tier": "premium",
+      "expiry": 0,
+      "banned": false,
+      "banReason": "",
+      "metadata": {
+        "role": "premium",
+        "added": "2025-09-11",
+        "discord": "s1shy"
+      }
+    },
     
   ]
 }
