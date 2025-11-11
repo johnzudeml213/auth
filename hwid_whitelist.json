@@ -118,6 +118,19 @@
         "added": "2025-09-11",
         "discord": "guruofthemoon"
       }
+    },
+     {
+      "hwid": "26591f05443b42f2e286cd0a3357299053b33de6809473fdc8bcf7fb1547be46",
+      "username": "meow",
+      "tier": "premium",
+      "expiry": 0,
+      "banned": false,
+      "banReason": "",
+      "metadata": {
+        "role": "premium",
+        "added": "2025-09-11",
+        "discord": "uni.meow"
+      }
     }
     
   ]
