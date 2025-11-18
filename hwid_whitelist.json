@@ -196,7 +196,20 @@
         "added": "2025-12-11",
         "discord": "982382988585226270"
       }
-    }
+    },
+     {
+      "hwid": "8c2ad572c4d1b54b9bb01887bd70af85955e1ac0d596b1bdc36990033aafb75d",
+      "username": "imawesomesauce1",
+      "tier": "premium",
+      "expiry": 0,
+      "banned": false,
+      "banReason": "",
+      "metadata": {
+        "role": "premium",
+        "added": "2025-12-11",
+        "discord": "451808821073936384"
+      }
+     }
     
   ]
 }
