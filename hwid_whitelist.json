@@ -41,6 +41,19 @@
         "discord": "hunchojetski"
       }
     },
+     {
+      "hwid": "e166e377976fa09be6e333ec106e9dd06ccc160c28d0b65cc6546619371c5144",
+      "username": "notthechild",
+      "tier": "premium",
+      "expiry": 0,
+      "banned": false,
+      "banReason": "",
+      "metadata": {
+        "role": "premium",
+        "added": "2025-03-11",
+        "discord": "708343875705634958"
+      }
+    },
     {
       "hwid": "cf3782ec4bd65166c49bafd614ee0adf55b9796c11a8b1de78f9584dfd43bd6b",
       "username": "diego",
